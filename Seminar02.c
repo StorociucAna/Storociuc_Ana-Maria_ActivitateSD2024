@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #include<malloc.h>
 
 struct Calculator {
@@ -83,4 +83,4 @@ void main() {
 	afisareVectorCalculatoare(calculatoarePorturi, nrCalculatoarePorturi);
 
 	dezalocare(&calculatoare, &nrCalculatoare);
-}
+}*/
