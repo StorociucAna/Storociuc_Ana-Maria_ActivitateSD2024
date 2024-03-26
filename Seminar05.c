@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <malloc.h>
 
 typedef struct Biblioteca Biblioteca; //sa nu mai scriu struct Biblioteca mereu
@@ -98,4 +98,4 @@ void main() {
     free(b2.nume);
     free(b3.nume);
     free(b4.nume);
-}
+}*/
