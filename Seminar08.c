@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+/*#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <malloc.h>
 #include <string.h>
@@ -114,4 +114,4 @@ void main() {
 
 	afisareHeapTotala(h);
 	DezalocareHeap(&h);
-}
+}*/

@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+/*#define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<malloc.h>
 #include<string.h>
@@ -134,4 +134,4 @@ void main() {
 	Galerie g = cautaGalerieDupaCheie(4, "Antipa", tabela);
 	printf("Cautare:\n");
 	afisareGalerie(g);
-}
+}*/

@@ -1,0 +1,16 @@
+3
+111
+ScoalaA
+2
+ElevA1
+ElevA2
+222
+ScoalaB
+1
+ElevB1
+333
+ScoalaC
+3
+ElevC1
+ElevC2
+ElevC3
